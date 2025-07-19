@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 from pathlib import Path
-import gspread
-from google.oauth2.service_account import Credentials
+# import gspread
+# from google.oauth2.service_account import Credentials
 
 ADMIN_USER = 'ananya'
 ADMIN_PASS = 'ananyayakkundirss'
